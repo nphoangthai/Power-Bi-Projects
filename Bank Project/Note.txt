@@ -1,0 +1,1 @@
+- Star schema: dimension tables are connected to one big table where stored most valuable data.
