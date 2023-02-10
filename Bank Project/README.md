@@ -12,7 +12,7 @@ This projects is an exploratory data analysis (EDA) in banking domain, which aim
 The data set contains customers of Royal Bank of Canada (RBC) from 2016 - 2019 and across German, Spain and France.
 You can find details about data attributes in `./Documents/RBC_BusinessRequirementDocument.docx`.
 
-![RBC_LOGO](Image/RBC Logo.png)
+![RBC_LOGO](./Image/RBC Logo.png)
 
 ### Technical Area
 With this project you can practice these skills in Power BI:
