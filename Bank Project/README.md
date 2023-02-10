@@ -12,7 +12,9 @@ This projects is an exploratory data analysis (EDA) in banking domain, which aim
 The data set contains customers of Royal Bank of Canada (RBC) from 2016 - 2019 and across German, Spain and France.
 You can find details about data attributes in `./Documents/RBC_BusinessRequirementDocument.docx`.
 
-![RBC_LOGO](./Image/RBC Logo.png)
+<p align="center">
+  <img src="./Image/RBC_Logo.png">
+</p>
 
 ### Technical Area
 With this project you can practice these skills in Power BI:
@@ -23,3 +25,15 @@ With this project you can practice these skills in Power BI:
   * Format visualizations.
   * Create relationships between tables in data modelling.
   * Other skills: sort, filter, ...
+
+### Result
+<p align="center">
+  <img src="./Image/Customer Churn Analysis/Dashboard.png">
+</p>
+
+#### Insights
+
+## Note
+- You can go to `My Result` to download my result `.pbix` file to view and explore it around better. I don't have a Power BI PRO account so I can't share it online.
+
+# THE END
